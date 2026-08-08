@@ -60,7 +60,7 @@ There will be roughly a dozen chapters, structured following the outline shown i
 
 #### About the Author
 YINIAN — yes, the same person behind the YINIAN persona. Find me on Douyin: @yinianalgebra. I am present on other platforms too, but I will leave those for you to discover.  
-Visit my site: [YINIAN](https://yn.devynhub.org "YINIAN - Personal Profile")  
+Visit my site: [YINIAN](https://yn.devynhub.org "YINIAN - Personal Profile")
 [![Douyin-YINIAN](https://img.shields.io/badge/Douyin-%E6%84%8F%E5%BF%B5-blue?logo=Tiktok&logoColor=white&labelColor=black&color=blue)](https://www.douyin.com/user/MS4wLjABAAAAInTwM-JRLhLvVG2fxABZBWZDZltB7GEWYGAdLil5P7E)
 
 #### Feedback & Corrections
