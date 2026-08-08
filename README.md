@@ -66,8 +66,11 @@ Visit my site: [YINIAN](https://yn.devynhub.org "YINIAN - Personal Profile")
 #### Feedback & Corrections
 To be frank: there may well be mistakes in this work. Corrections are always welcome. I do not beat around the bush — if you point out a genuine, useful issue, no matter how bluntly, feel free to let me know. I will publicly acknowledge your contribution in the README.  
 
-### License
+#### License
 All content is original work. All rights reserved.  
+
+## Start
+[Start开始](#开始)  
 
 ***
 
@@ -98,5 +101,26 @@ All content is original work. All rights reserved.
 #### 欢迎指正
 本人……怎么说呢，反正很可能有错吧，欢迎指正，我不喜欢绕弯子，只要你提出来的是真实有用的，那么不管是犀利还是怎么样，欢迎告诉我，我会在readme里面公开感谢的  
 
-### License
+#### License
 本人全程原创，保留所有权利  
+
+## 开始
+[Start开始](#开始)  
+
+***
+
+### Start开始
+
+[Start/开始](docs/1.md)  
+
+**© 2026 YINIAN，本文著作权归本人所有**  
+
+文字全文禁止任何形式转载、摘编、复制及二次使用，未经书面许可不得引用大段原文  
+
+本人口播视频可以进行非商业搬运，许可仅针对视频文件本身，不代表授权提取视频内的文字内容另行发布文章、文稿  
+
+**© 2026 YINIAN Copyright**  
+
+The text in full is prohibited from any form of reproduction, excerpting, copying, or secondary use. Without written permission, large portions of the original text may not be quoted.  
+
+My narrated videos may be transferred for non-commercial purposes; this permission only applies to the video files themselves and does not authorize extracting the text content from the videos to publish as separate articles or manuscripts.  
