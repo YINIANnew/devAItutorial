@@ -61,7 +61,7 @@ There will be roughly a dozen chapters, structured following the outline shown i
 #### About the Author
 YINIAN — yes, the same person behind the YINIAN persona. Find me on Douyin: @yinianalgebra. I am present on other platforms too, but I will leave those for you to discover.  
 Visit my site: [YINIAN](https://yn.devynhub.org "YINIAN - Personal Profile")  
-[![Douyin-YINIAN](https://img.shields.io/badge/devYNhub-YINIAN-03A9F4?logo=SearXNG&logoColor=black&labelColor=white)](https://yn.devynhub.org)
+[![Douyin-YINIAN](https://img.shields.io/badge/Douyin-%E6%84%8F%E5%BF%B5-blue?logo=Tiktok&logoColor=white&labelColor=black&color=blue)](https://www.douyin.com/user/MS4wLjABAAAAInTwM-JRLhLvVG2fxABZBWZDZltB7GEWYGAdLil5P7E)
 
 #### Feedback & Corrections
 To be frank: there may well be mistakes in this work. Corrections are always welcome. I do not beat around the bush — if you point out a genuine, useful issue, no matter how bluntly, feel free to let me know. I will publicly acknowledge your contribution in the README.  
@@ -93,7 +93,7 @@ All content is original work. All rights reserved.
 #### 作者介绍
 意念，没错，也是意念的躯壳，抖音yinianalgebra，其他平台其实也有但是不想说……  
 来玩：[意念](https://yn.devynhub.org "意念 - 个人介绍")
-[![Douyin-意念](https://img.shields.io/badge/devYNhub-YINIAN-03A9F4?logo=SearXNG&logoColor=black&labelColor=white)](https://yn.devynhub.org)
+[![Douyin-意念](https://img.shields.io/badge/Douyin-%E6%84%8F%E5%BF%B5-blue?logo=Tiktok&logoColor=white&labelColor=black&color=blue)](https://www.douyin.com/user/MS4wLjABAAAAInTwM-JRLhLvVG2fxABZBWZDZltB7GEWYGAdLil5P7E)
 
 #### 欢迎指正
 本人……怎么说呢，反正很可能有错吧，欢迎指正，我不喜欢绕弯子，只要你提出来的是真实有用的，那么不管是犀利还是怎么样，欢迎告诉我，我会在readme里面公开感谢的  
